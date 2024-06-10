@@ -1,0 +1,3 @@
+/home/agtrout/pico/development_pico/MyLearning1_vscode/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/agtrout/pico/development_pico/MyLearning1_vscode/build/pioasm/CMakeFiles/edit_cache.dir
+/home/agtrout/pico/development_pico/MyLearning1_vscode/build/pioasm/CMakeFiles/pioasm.dir
